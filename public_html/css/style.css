@@ -9,6 +9,16 @@ and open the template in the editor.
 */
 
 
+div#header {
+    
+    height: 35px;
+    background-color: red;
+    
+    
+}
+
+
+
 p#border1 {
     
     border: 2px solid black;
