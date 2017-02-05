@@ -17,12 +17,20 @@ div#header {
     
 }
 
-
-
 p#border1 {
     
     border: 2px solid black;
     border-left: 4px solid black;
     padding-left: 5px;
     
+}
+
+div.principal {
+    
+    background-color: blue;
+       
+}
+
+div.secundario {
+    background-color: brown;
 }
