@@ -11,9 +11,15 @@ and open the template in the editor.
 
 div#header {
     
-    height: 35px;
-    background-color: red;
+    height: fit-content;
+    background-color: burlywood;
     
+    
+}
+
+#logo {
+    
+    position: relative;
     
 }
 
@@ -27,7 +33,7 @@ p#border1 {
 
 div.principal {
     
-    background-color: blue;
+    background-color: blueviolet;
        
 }
 
