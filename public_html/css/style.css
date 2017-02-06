@@ -54,6 +54,13 @@ div#header {
 	transition: all .25s ease;
 }
 
+#firstli { border-top: 3px solid red }
+#secondli { border-top: 3px solid blue }
+#thirdli { border-top: 3px solid grey }
+#fourthli { border-top: 3px solid green}
+#fithli { border-top: 3px solid brown}
+
+
 p#border1 {
     
     border: 2px solid black;
