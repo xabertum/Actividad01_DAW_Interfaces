@@ -25,41 +25,10 @@ div#header {
 
 /* Barra de Navegación */
 
-.menu ul, .menu li {
-	margin: 0;
-	padding: 0;
+.colornavbar {
+    background-color: burlywood;
+    
 }
-.menu ul {
-	background: gray;
-	list-style: none;
-	width: 100%;
-}
-.menu li {
-	float: left;
-	position: relative;
-	width:auto;
-}
-.menu a {
-	background: burlywood;
-	color: #FFFFFF;
-	display: inline-block;
-	font: bold 12px/20px sans-serif;
-	padding: 10px 25px;
-	text-align: center;
-	text-decoration: none;
-	-webkit-transition: all .25s ease;
-	-moz-transition: all .25s ease;
-	-ms-transition: all .25s ease;
-	-o-transition: all .25s ease;
-	transition: all .25s ease;
-}
-
-#firstli { border-top: 3px solid red }
-#secondli { border-top: 3px solid blue }
-#thirdli { border-top: 3px solid grey }
-#fourthli { border-top: 3px solid green}
-#fithli { border-top: 3px solid brown}
-
 
 p#border1 {
     
